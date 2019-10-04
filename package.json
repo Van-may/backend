@@ -42,7 +42,7 @@
     ]
   },
   "dependencies": {
-    "@van-may/cms": "https://github.com/van-may/cms#0.0.1",
+    "@van-may/cms": "https://github.com/van-may/cms",
     "@van-may/frontend": "https://github.com/van-may/frontend",
     "emotion": "^9.2.11",
     "gatsby-transformer-remark": "^2.1.19",
