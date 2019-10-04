@@ -42,7 +42,7 @@
     ]
   },
   "dependencies": {
-    "@van-may/cms": "https://github.com/Van-may/cms.git#2.3.4",
+    "@campus-online/cms": "2.3.4-alpha.20",
     "@van-may/frontend": "https://github.com/van-may/frontend",
     "emotion": "^9.2.11",
     "gatsby-transformer-remark": "^2.1.19",
