@@ -1,0 +1,179 @@
+logo_url: https://vanmay.info/assets/images/logo.png
+
+backend:
+  name: git-gateway
+  branch: master
+  squash_merges: true
+  site_domain: vanmay.info
+  identity_url: https://vanmay-backend.netlify.com/.netlify/identity
+  gateway_url: https://vanmay-backend.netlify.com/.netlify/git/github
+  commit_messages:
+    create: '{{collection}}:sparkles: {{slug}}'
+    update: '{{collection}}:pencil2: {{slug}}'
+    delete: '{{collection}}:put_litter_in_its_place: {{slug}}'
+
+publish_mode: editorial_workflow
+
+slug:
+  encoding: 'ascii'
+  clean_accents: true
+
+display_url: https://vanmay.info
+
+media_library:
+  name: uploadcare
+  config:
+    publicKey: b6232c6806f7da419ce5
+
+editor:
+  preview: false
+
+collection_types:
+  articles: &articles
+    icon: 'feather-file-text'
+    label: 'Nội dung chính'
+    label_singular: 'Nội dung chính'
+    commit_label: ':newspaper:'
+    create: false
+    delete: false
+    reverse: true
+    format: 'yaml-frontmatter'
+    slug: '{{date}}-{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Tiêu đề', name: title, widget: string, required: true }
+      - { label: 'Hình ảnh', name: cover, widget: image, required: false }
+      - {
+          label: 'Ngày xuất bản',
+          name: date,
+          widget: date,
+          format: 'YYYY-MM-DD',
+          required: true,
+        }
+      - {
+          label: 'Mục xuất bản',
+          name: editorial,
+          widget: editorial,
+          required: false,
+        }
+      - {
+          label: 'Tác giả',
+          name: authors,
+          widget: author,
+          multiple: true,
+          required: false,
+        }
+      - {
+          label: 'Phóng viên thường trú từ (20xx/x)',
+          name: semester,
+          widget: semester,
+          required: true,
+        }
+      - { label: 'Tags', name: tags, widget: list, required: false }
+      - {
+          label: 'Nổi bật không?',
+          name: featured,
+          widget: boolean,
+          default: false,
+          required: false,
+        }
+      - { label: 'Headline cho tiêu đề', name: headline, widget: string, required: false }
+      - { label: 'Nội dung', name: body, widget: markdown }
+
+  editorials: &editorials
+    icon: 'feather-layers'
+    label: 'Mục xuất bản'
+    label_singular: 'Editoria'
+    commit_label: ':file_folder:'
+    create: false
+    delete: false
+    reverse: true
+    extension: 'md'
+    format: 'yaml-frontmatter'
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - {
+          label: 'Tên mục xuất bản',
+          name: title,
+          widget: string,
+          required: true,
+        }
+      - {
+          label: 'Mã màu background (hexadecimal)',
+          name: color,
+          widget: string,
+          required: true,
+          pattern: ['^#(?:[0-9a-fA-F]{3}){1,2}$', 'Cor Inválida'],
+        }
+      - {
+          label: 'Thường trú từ (20xx/x)',
+          name: semester,
+          widget: semester,
+          required: true,
+        }
+      - {
+          label: 'Mô tả (opcional)',
+          name: description,
+          widget: text,
+          required: false,
+        }
+      - { label: 'Nội dung (opcional)',
+          name: body,
+          widget: markdown,
+          required: false,
+        }
+
+  authors: &authors
+    icon: 'feather-users'
+    label: 'Phóng viên'
+    label_singular: 'Phóng viên'
+    commit_label: ':bust_in_silhouette:'
+    create: false
+    delete: false
+    reverse: true
+    extension: 'md'
+    format: 'yaml-frontmatter'
+    slug: '{{semester}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Họ và Tên', name: title, widget: string, required: true }
+      - {
+          label: 'Thường trú kể từ (20xx/x)',
+          name: semester,
+          widget: semester,
+          required: true,
+        }
+      - {
+          label: 'Hình ảnh (optional)',
+          name: image,
+          widget: image,
+          required: false,
+        }
+      - {
+          label: 'Bio (optional)',
+          name: body,
+          widget: markdown,
+          required: false,
+        }
+
+collections:
+  # [TODO]: add archive folders
+  - <<: *articles
+    name: articles
+    folder: 'docs/articles'
+    create: true
+    delete: true
+
+  - <<: *editorials
+    name: editorials
+    folder: 'docs/editorials'
+    create: true
+
+  - <<: *authors
+    name: authors
+    folder: 'docs/authors'
+    create: true
