@@ -26,7 +26,7 @@ module.exports = {
 	resolve: {
 		alias: {
 			'netlify-cms': '@campus-online/cms',
-			'@frontend': '@campus-online/frontend/src',
+			'@frontend': '@van-may/frontend/src',
 			gatsby: path.resolve(__dirname, 'utils', 'gatsby.js'),
 		},
 	},
@@ -55,7 +55,7 @@ module.exports = {
 			},
 			{
 				test: /\.m?js$/,
-				include: /@campus-online\/frontend\//,
+				include: /@van-may\/frontend\//,
 				use: {
 					loader: 'babel-loader',
 					options: {

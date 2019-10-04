@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@campus-online/cms": "2.3.4-alpha.20",
-    "@campus-online/frontend": "https://github.com/van-may/frontend",
+    "@van-may/frontend": "https://github.com/van-may/frontend",
     "emotion": "^9.2.11",
     "gatsby-transformer-remark": "^2.1.19",
     "netlify-identity-widget": "^1.5.2",
