@@ -21,4 +21,14 @@ headline: >-
 
 Con Số của riêng tôi là làm sao mỗi tháng tôi có thể kiếm được từ AdSense $100/tháng khi tôi mới bắt đầu, tương đương với $10/ngày. Vì nếu chọn con số lớn hơn có lẽ ngoài sức của tôi vì tôi chọn đối tượng người truy cập của mình chủ yếu đến từ Việt Nam, và CPC cho người Việt rất là thấp chỉ khoảng 0.03$/click, và trên hết người Việt chúng ta không có thói quen bấm quảng cáo nên nhiệm vụ tương đối là bất khả thi.
 
-Đối với các tính toán của chúng tôi trong bài đăng này, sử dụng số liệu của chính bản thân mình.
+Đối với các tính toán của chúng tôi trong bài đăng này, sử dụng số liệu của chính bản thân mình. Bản thân tôi chưa bao giờ là một người giỏi tính toán, vì thế tôi chưa bao giờ nghĩ đến mình sẽ kiếm được đủ số tiền có thể sống được với AdSense mà làm vì yêu thích, yêu mến nghề rất nhiều, và mãi tới hôm nay, vào năm 2019 này tức sau khoảng 5 năm làm nghề tôi mới lần đầu tiên đi phân tích xem liệu mình sẽ kiếm được như vậy hay không.
+
+## Thời gian đầu
+
+Khi tôi thấy mọi người nói về Adsense, tôi thấy rất nhiều cuộc thảo luận về các bài thảo luận về có lợi nhuận, chi phí mỗi lần nhấp, tạo thu nhập toàn thời gian, seo, v.v. nhưng tôi không bao giờ thấy nhiều cuộc thảo luận về lưu lượng truy cập traffic website. Tôi thấy các chủ đề diễn đàn hàng ngày của những người muốn tìm hiểu cách đạt 100 đô với Adsense ( hoặc thông qua một số mạng quảng cáo khác ).
+
+Nhưng đến cuối cùng, tất cả là về vấn đề traffic website. Có nhiều yếu tố ảnh hưởng đến thu nhập chung của một trang web, nhưng có nhiều lưu lượng truy cập vào web chính là mẫu số chung.
+
+## Vậy, bạn cần bao nhiêu lưu lượng truy cập để đạt được 100 đô với Adsense?
+
+Đối với tôi, tôi đã có thể đạt được thu nhập toàn thời gian khi tôi liên tục nhận được hơn 200.000 khách mỗi tháng. Tôi đã làm được với chỉ một trang web. Tôi đã cần đến 30 trang web, với một nửa trong số đó tạo ra 90% trong tổng số 200.000 khách truy cập cần thiết để kiếm 100 đô đầu tiên.
