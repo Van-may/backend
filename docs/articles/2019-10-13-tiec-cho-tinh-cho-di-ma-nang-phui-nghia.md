@@ -36,3 +36,13 @@ headline: >-
 > Gặp anh ghé nón, chạm vai chẳng chào?
 
 Mình đã 30, trải qua nhiều năm sống nhưng chủ yếu là kinh nghiệm làm việc, chứ kinh nghiệm yêu đương thì yếu kém. Có lẽ, đấy là lý do dẫn đến những cuộc chia ly và từ chối không nương tay của những mối duyên trời mang đến.
+
+Yêu cô nào, cũng thề thốt với nhau thuỷ chung son sắt, đến khi gặp mặt, trải qua vài chuyện không như ý là các nàng thốt ra rằng thôi, mình chia tay đi, câu nói nhẹ tựa lông hồng mà bản thân mình không bao giờ dám thốt ra trước cả.
+
+Có lẽ, các nàng quen được nhiều anh chăm chút, nên khi có tình yêu rồi lại đem ra làm so sánh, cân đong đo đếm, sự thiệt thòi này biết kể với ai?
+
+Giờ đây, sau nhiều mối chai sạn cuộc đời, mình cũng thấm thía, và chọn về quê lập nghiệp và cưới vợ. Chẳng đâu hơn được quê nhà, duyên phận chỉ là một chút thoảng qua, trên con đường dài muôn thuở.
+
+_Trai làng lại lấy gái làng._
+
+_Tội gì vác cuốc dọn đàng ai đi_
