@@ -1,5 +1,6 @@
 ---
 title: 9 lỗi sai lầm tôi mắc phải khi lần đầu làm AdSense
+cover: 'https://ucarecdn.com/702ebd3f-1449-415a-91fa-bd2c949ebfa2/'
 date: '2019-11-12'
 editorial: publisher
 authors:
