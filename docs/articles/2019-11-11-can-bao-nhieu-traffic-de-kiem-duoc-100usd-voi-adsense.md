@@ -77,19 +77,17 @@ Chúng tôi sẽ cố gắng sử dụng các số càng gần trung bình càng
 
 Nếu chúng tôi cần 100 lần nhấp với 5% TLB, tổng lưu lượng truy cập phải là
 
-100 / 0,05 = 2.000.
+100 / 0,03 = 3.334.
 
 
 
-Chúng tôi cần 2.000 khách mỗi ngày. Mỗi tháng, tức là
+Chúng tôi cần 3.334 khách mỗi ngày. Mỗi tháng, tức là
 
-2.000 x 30 = 60.000.
-
-
-
-60.000 khách truy cập mỗi tháng để kiếm 100 đô la / ngày với Adsense. Tất nhiên, đây chỉ là một ước tính sử dụng số liệu rất lý tưởng. Không dễ để duy trì CPC trung bình $ 1 + và CPC là một yếu tố lớn trong số lượng lưu lượng truy cập bạn sẽ cần để đạt được con số này. Dưới đây là một ví dụ ước tính tuyệt vời khác mà bạn có thể xem xét .
+2.000 x 30 = 100.020.
 
 
+
+100.020 khách truy cập mỗi tháng để kiếm 100 đô la với Adsense. Tất nhiên, đây chỉ là một ước tính sử dụng số liệu rất lý tưởng. Không dễ để duy trì CPC trung bình $ 1 + và CPC là một yếu tố lớn trong số lượng lưu lượng truy cập bạn sẽ cần để đạt được con số này. Dưới đây là một ví dụ ước tính tuyệt vời khác mà bạn có thể xem xét .
 
 Một số blog của tôi liên tục nhận được hơn 10% TLB, trong khi những người khác nhận được dưới 2%. Một số trang web của tôi nhận được CPC từ 2 - 5 đô la, trong khi những trang khác không bao giờ nhận được cao hơn 0,30 đô la.
 
