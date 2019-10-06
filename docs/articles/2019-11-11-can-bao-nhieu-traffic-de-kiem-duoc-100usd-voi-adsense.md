@@ -63,48 +63,30 @@ RPM trung bình cho phạm vi AdSense rất lớn tùy thuộc vào thị trư�
 
 Hãy chia nhỏ các con số hơn nữa với một số số liệu ví dụ.
 
-
-
 Chúng tôi sẽ cố gắng sử dụng các số càng gần trung bình càng tốt. Trong ví dụ này, chúng tôi sẽ sử dụng CPC 1 đô la và 5% TLB. Vậy chúng ta cần bao nhiêu lưu lượng truy cập để kiếm được 100 đô la mỗi ngày với những con số đó?
-
-
 
 Đầu tiên, chúng ta cần tính xem có bao nhiêu lần nhấp tương đương với 100 đô la.
 
-100/1 = 100 lần nhấp.
-
-
+1 click ở Việt Nam có giá trị $0,03. mà phải trên 100 truy cập mới có 1 lần nhấp chuột /, như vậy để có được $1 cần phải có 33 nhấp chuột , ta đem nhân cho 100 truy cập mới được 1 click đó và tìm ra con số là 3.334 lần truy cập mới kiếm được $1.
 
 Nếu chúng tôi cần 100 lần nhấp với 5% TLB, tổng lưu lượng truy cập phải là
 
 100 / 0,03 = 3.334.
 
-
-
 Chúng tôi cần 3.334 khách mỗi ngày. Mỗi tháng, tức là
 
-2.000 x 30 = 100.020.
-
-
+3.334 x 30 = 100.020.
 
 100.020 khách truy cập mỗi tháng để kiếm 100 đô la với Adsense. Tất nhiên, đây chỉ là một ước tính sử dụng số liệu rất lý tưởng. Không dễ để duy trì CPC trung bình $ 1 + và CPC là một yếu tố lớn trong số lượng lưu lượng truy cập bạn sẽ cần để đạt được con số này. Dưới đây là một ví dụ ước tính tuyệt vời khác mà bạn có thể xem xét .
 
 Một số blog của tôi liên tục nhận được hơn 10% TLB, trong khi những người khác nhận được dưới 2%. Một số trang web của tôi nhận được CPC từ 2 - 5 đô la, trong khi những trang khác không bao giờ nhận được cao hơn 0,30 đô la.
 
-
-
 ## Bạn có thể đoán RPM của trang trên trang ví dụ ở trên không?
 
 Nếu bạn trả lời $ 50, bạn đã đúng. Hãy nhớ rằng, RPM là số tiền bạn sẽ kiếm được cho 1000 khách truy cập trên trang web của mình. Nếu bạn có 1000 khách truy cập với 1 đô la CPC và 5% TLB, đó là 50 lần nhấp (5% của 1000) với mức 1 đô la kiếm được cho mỗi lần nhấp.
 
-
-
 Một RPM $ 50 trang thực sự tuyệt vời. Nếu tôi nhận được $ 50 RPM trên một trang web, tôi thực sự sẽ bắt đầu xây dựng nó với nhiều bài đăng và nội dung xác thịt để tăng số liệu lưu lượng truy cập.
 
-
-
 Sau đó, bạn có thể tính thu nhập ước tính dựa trên các mục tiêu lưu lượng truy cập trong tương lai của mình.
-
-
 
 Nếu bạn tăng lưu lượng truy cập trên trang web lên 500.000 khách truy cập mỗi tháng, thì đó là 25.000 đô la một tháng.
