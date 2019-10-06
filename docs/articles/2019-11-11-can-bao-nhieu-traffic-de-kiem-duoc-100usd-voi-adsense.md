@@ -65,9 +65,9 @@ Hãy chia nhỏ các con số hơn nữa với một số số liệu ví dụ.
 
 Chúng tôi sẽ cố gắng sử dụng các số càng gần trung bình càng tốt. Trong ví dụ này, chúng tôi sẽ sử dụng CPC 1 đô la và 5% TLB. Vậy chúng ta cần bao nhiêu lưu lượng truy cập để kiếm được 100 đô la mỗi ngày với những con số đó?
 
-Đầu tiên, chúng ta cần tính xem có bao nhiêu lần nhấp tương đương với 100 đô la.
+Đầu tiên, chúng ta cần tính xem có bao nhiêu lần nhấp tương đương với 1 đô la.
 
-1 click ở Việt Nam có giá trị $0,03. mà phải trên 100 truy cập mới có 1 lần nhấp chuột /, như vậy để có được $1 cần phải có 33 nhấp chuột , ta đem nhân cho 100 truy cập mới được 1 click đó và tìm ra con số là 3.334 lần truy cập mới kiếm được $1.
+100/1 = 100 lần nhấp.
 
 Nếu chúng tôi cần 100 lần nhấp với 5% TLB, tổng lưu lượng truy cập phải là
 
@@ -75,7 +75,7 @@ Nếu chúng tôi cần 100 lần nhấp với 5% TLB, tổng lưu lượng truy
 
 Chúng tôi cần 3.334 khách mỗi ngày. Mỗi tháng, tức là
 
-3.334 x 30 = 100.020.
+2.000 x 30 = 100.020.
 
 100.020 khách truy cập mỗi tháng để kiếm 100 đô la với Adsense. Tất nhiên, đây chỉ là một ước tính sử dụng số liệu rất lý tưởng. Không dễ để duy trì CPC trung bình $ 1 + và CPC là một yếu tố lớn trong số lượng lưu lượng truy cập bạn sẽ cần để đạt được con số này. Dưới đây là một ví dụ ước tính tuyệt vời khác mà bạn có thể xem xét .
 
