@@ -2,7 +2,7 @@
 title: Đôi nét về Tiếp
 ---
 
-**Important**: Vào Tiếp sơn trang xong không thấy có số điện thoại là nguyên cớ sao? làm cách nào để liên hệ?
+**Important**: Vào Tiếp Vận may sơn trang xong không thấy có số điện thoại là nguyên cớ sao? làm cách nào để liên hệ?
 
 Hơn 90% lợi nhuận kiếm được từ việc bán hàng trực tiếp cho các nỗ lực trồng cây và duy trì hệ thống tin tức này, đảm bảo nội dung luôn có sẵn với mọi người.
 
@@ -14,10 +14,11 @@ Ngoài việc cung cấp sản phẩm thông qua online, chúng tôi còn phát 
 
 Tôi đã dành phần lớn cuộc đời mình đi làm cho người khác, mọi thứ. chưa từng giữ được gì cho bản thân, vì thế tôi quyết định xây dựng riêng một thứ cho mình, để kỷ niệm, để hoài niệm, và có chỗ để khuây khỏa thay cho nỗi cơ cực cuộc đời tôi.
 
+Cung cấp dịch vụ nâng cấp domain cho Google AdSense xin liên hệ theo thông tin bên dưới đây 
 
 ## Mọi chi tiết xin liên hệ theo
 
-| Mạng xã hội **Facebook** | [**fb**@vanmayvuive](https://facebook.com/vanmayvuive)      |
+| Mạng xã hội **Facebook** | [**fb**@VậnmayLittle](https://facebook.com/vanmaylittle)      |
 | ------------- |:-------------:|
 | Nội dung gửi tới thư của bạn **Newsletter**           | [**twitter**@tiep](https://tiep.substack.com) |
 | Mua hàng ủng hộ kinh phí duy trì với **T-shirt Shop**  | [**t-shirt**@tiep](https://tiep.teemill.com) |
