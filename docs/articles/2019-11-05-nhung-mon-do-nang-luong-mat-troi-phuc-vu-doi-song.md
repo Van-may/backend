@@ -40,8 +40,6 @@ công ty GoSun đã giới thiệu phiên bản mới nhất của chiếc bếp
 
 GoSun Go có thể chuyển đổi năng lượng mặt trời thành nhiệt năng với nhiệt độ lên 260 độ đủ để đun sôi 400ml hay nấu chín thức ăn trong vòng 30 phút. Và đương nhiên, bếp năng lượng mặt trời di động này hoạt động tốt ở bất cứ điều kiện môi trường nào, chỉ cần có đủ ánh sáng mặt trời.
 
-
-
 Đặc biệt hơn, phiên bản GoSun Go hiện đang chào bán trên trang Kickstarter với giá chỉ 99USD, rẻ nhất trong các sản phẩm bếp năng lượng mặt trời của GoSun. Và điều này đã giúp cho nhà sản xuất GoSun Go nhanh chóng đạt vượt mức kêu gọi đầu tư trên Kickstarter và sản phẩm dự kiến sẽ được giao đến người dùng vào tháng 4/2018.
 
 Giá thành hiện chỉ khoảng $119 cho phiên bản GoSun Go kích cỡ nhỏ phù hợp cho dã ngoại và 1 người lớn, khoảng tầm 3 triệu VNĐ.
@@ -88,4 +86,6 @@ Giá cả $149 tương đương 3 triệu 500 VNĐ, nếu đến tận tay ngư�
 
 ![](https://ucarecdn.com/73c094a1-bc0f-41dd-a14c-3b5f0d6ad72e/)
 
-AAAAAAAAAAAAAA
+Về các thiết bị bơm nước này do Thạc sĩ Huỳnh Minh Phú thiết kế và phát triển lắp ráp trong nước, đặc biệt là ở Bến tre và Tp.HCM nên ở đây mình không giới thiệu nhiều mà hướng dẫn các bạn vào thẳng trang Youtube của Thạc Sĩ Huỳnh Minh Phú để tìm hiểu thêm về các dòng máy bơm năng lượng mặt trời của anh, phần vì là ở trong nước dễ tiếp xúc và tìm hiểu, mua hơn là các loại mua ở nước ngoài.
+
+[Youtube của anh Huỳnh Minh Phú xin bấm vào đây](https://www.youtube.com/channel/UCFaYTrggUAcR1vhmV7Gl-3w/about) hoặc truy cập vào [website của thạc sĩ Huỳnh Minh Phú theo địa chỉ này](http://www.ktphuhung.com/) để tìm hiểu.
