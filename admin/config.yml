@@ -23,7 +23,7 @@ display_url: https://vanmay.info
 media_library:
   name: uploadcare
   config:
-    publicKey: e73fbaf23d4f76db1371
+    publicKey: f1f59fdce397d0d58b4b
 
 editor:
   preview: false
