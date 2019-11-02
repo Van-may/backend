@@ -28,4 +28,6 @@ Các loại hạt giống theo mùa, phù hợp điều kiện khí hậu.
 
 Một đôi ủng.
 
+Đây là bảng danh sách hạt giống theo mùa mình tổng hợp được, cả về chất lượng và tỷ lệ nảy mầm.
+
 <iframe style="border: 0; width: 100%; height: 360px;"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRhMk-E5IZj1PlWMUvvYKqxUTTSdAskjGNkqHJHaB3tA2_8tiUfywF9Alsr5dFbYq_pVmyK1f8fxkM7/pubhtml?widget=true&amp;headers=false"></iframe>
