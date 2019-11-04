@@ -16,6 +16,10 @@ headline: >-
 ---
 Trong bài viết này thì mình cố gắng phân tích và làm rõ cho các bạn thấy cách mình triển khai công việc nhé.
 
+Một số sản phẩm homemade làm được trong năm đầu tiên.
+
+![Ảnh minh hoạ do Vận may thực hiện dựa trên dữ liệu sản phẩm từ gia đình.](https://ucarecdn.com/afc30990-168d-416b-89e6-c5c6a27d3afa/ "Ảnh minh hoạ do Vận may thực hiện dựa trên dữ liệu sản phẩm từ gia đình.")
+
 ## Dưới đây là những điều mình chuẩn bị:
 
 1 mảnh vườn nhỏ, diện tích từ 20 đến 50m2, tuỳ theo sở thích, làm cho gia đình hoặc bán rau.
