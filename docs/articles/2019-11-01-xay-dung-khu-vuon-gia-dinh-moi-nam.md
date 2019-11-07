@@ -26,7 +26,7 @@ Một số sản phẩm homemade làm được trong năm đầu tiên.
 
 Một bộ dụng cụ làm vườn
 
-Một bộ bơm nước năng lượng mặt trời tự làm, để khi có nắng thì tự bơm vào vườn, những thời điểm còn lại không có nắng thì có mây có độ ẩm, hoặc là có mưa rồi nên không cần bơm tưới nữa.
+Một bộ bơm nước năng lượng mặt trời tự làm, để khi có nắng thì tự bơm vào vườn, những thời điểm còn lại không có nắng thì có mây có độ ẩm, hoặc là có mưa rồi nên không cần bơm tưới nữa. bao gồm 1 tấm pin 30w + 1 tấm pin 100w và 1 chiếc máy bơm đặt mua tại amazon. Thời gian thu hoạch nắng từ 8h đến 3h30 chiều.
 
 Các loại hạt giống theo mùa, phù hợp điều kiện khí hậu.
 
