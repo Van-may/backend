@@ -28,6 +28,8 @@ Một số sản phẩm homemade làm được trong năm đầu tiên.
 
 \- Một bộ bơm nước năng lượng mặt trời tự làm, để khi có nắng thì tự bơm vào vườn, những thời điểm còn lại không có nắng thì có mây có độ ẩm, hoặc là có mưa rồi nên không cần bơm tưới nữa. bao gồm 1 tấm pin 30w + 1 tấm pin 100w + 1 chiếc máy bơm 6v-12v công suất chịu tải dành cho loại tấm pin 30w và 1 chiếc máy bơm Shoreline Marine Bilge Pump với công suất 600 GPH (Gallons per hours) đặt mua tại Amazon thông qua dịch vụ Fado.vn chuyển hàng về Việt Nam từ Dallas, Texas.
 
+Nếu như các bạn có nhu cầu muốn đặt mua một bộ bơm tưới như mình làm thì có thể liên hệ theo [**Facebook Vận may**](https://facebook.com/vanmaylittle) này của mình, mình cũng có bán nguyên bộ có sẵn do mình phát triển thêm và Homemade tại nhà nhé.
+
 \- Thời gian thu hoạch nắng từ 8h đến 3h30 chiều. trung bình được 5, đến 6 tiếng mỗi ngày.
 
 \- Các loại hạt giống theo mùa, phù hợp điều kiện khí hậu.
