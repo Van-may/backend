@@ -37,3 +37,9 @@ Một số sản phẩm homemade làm được trong năm đầu tiên.
 ## Đây là bảng danh sách hạt giống theo mùa mình tổng hợp được, cả về chất lượng và tỷ lệ nảy mầm.
 
 <iframe style="border: 0; width: 100%; height: 360px;"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRhMk-E5IZj1PlWMUvvYKqxUTTSdAskjGNkqHJHaB3tA2_8tiUfywF9Alsr5dFbYq_pVmyK1f8fxkM7/pubhtml?widget=true&amp;headers=false"></iframe>
+
+Liên tục tạo độ ẩm để hạt giống có thể nảy mầm, và cây có đủ nước để phát triển cho đến khi thu hoạch.
+
+Cũng cần phải chăm chút công đoạn làm tơi xốp đất, tạo luống để trồng dễ dàng, và dễ bơm nước vào khu vườn tạo ẩm.
+
+Trung bình, hàng năm sẽ cung cấp đủ số lượng rau cho gia đình 4 người sử dụng.
