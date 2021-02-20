@@ -5,8 +5,8 @@ backend:
   branch: master
   squash_merges: true
   site_domain: vanmay.info
-  identity_url: https://vanmay-backend.netlify.com/.netlify/identity
-  gateway_url: https://vanmay-backend.netlify.com/.netlify/git/github
+  identity_url: https://vanmay-backend.netlify.app/.netlify/identity
+  gateway_url: https://vanmay-backend.netlify.app/.netlify/git/github
   commit_messages:
     create: '{{collection}}:sparkles: {{slug}}'
     update: '{{collection}}:pencil2: {{slug}}'
