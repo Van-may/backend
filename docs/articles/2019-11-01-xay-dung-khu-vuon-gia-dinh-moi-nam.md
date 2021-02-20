@@ -22,16 +22,26 @@ Một số sản phẩm homemade làm được trong năm đầu tiên.
 
 ## Dưới đây là những điều mình chuẩn bị:
 
-1 mảnh vườn nhỏ, diện tích từ 20 đến 50m2, tuỳ theo sở thích, làm cho gia đình hoặc bán rau.
+\- 1 mảnh vườn nhỏ, diện tích từ 20 đến 50m2, tuỳ theo sở thích, làm cho gia đình hoặc bán rau.
 
-Một bộ dụng cụ làm vườn
+\- Một bộ dụng cụ làm vườn
 
-Một bộ bơm nước năng lượng mặt trời tự làm, để khi có nắng thì tự bơm vào vườn, những thời điểm còn lại không có nắng thì có mây có độ ẩm, hoặc là có mưa rồi nên không cần bơm tưới nữa. bao gồm 1 tấm pin 30w + 1 tấm pin 100w và 1 chiếc máy bơm đặt mua tại amazon. Thời gian thu hoạch nắng từ 8h đến 3h30 chiều.
+\- Một bộ bơm nước năng lượng mặt trời tự làm, để khi có nắng thì tự bơm vào vườn, những thời điểm còn lại không có nắng thì có mây có độ ẩm, hoặc là có mưa rồi nên không cần bơm tưới nữa. bao gồm 1 tấm pin 30w + 1 tấm pin 100w + 1 chiếc máy bơm 6v-12v công suất chịu tải dành cho loại tấm pin 30w và 1 chiếc máy bơm Shoreline Marine Bilge Pump với công suất 600 GPH (Gallons per hours) đặt mua tại Amazon thông qua dịch vụ Fado.vn chuyển hàng về Việt Nam từ Dallas, Texas.
 
-Các loại hạt giống theo mùa, phù hợp điều kiện khí hậu.
+Nếu như các bạn có nhu cầu muốn đặt mua một bộ bơm tưới như mình làm thì có thể liên hệ theo [**Facebook Vận may**](https://facebook.com/vanmaylittle) này của mình, mình cũng có bán nguyên bộ có sẵn do mình phát triển thêm và Homemade tại nhà nhé.
 
-Một đôi ủng.
+\- Thời gian thu hoạch nắng từ 8h đến 3h30 chiều. trung bình được 5, đến 6 tiếng mỗi ngày.
 
-Đây là bảng danh sách hạt giống theo mùa mình tổng hợp được, cả về chất lượng và tỷ lệ nảy mầm.
+\- Các loại hạt giống theo mùa, phù hợp điều kiện khí hậu.
+
+\- Một đôi ủng.
+
+## Đây là bảng danh sách hạt giống theo mùa mình tổng hợp được, cả về chất lượng và tỷ lệ nảy mầm.
 
 <iframe style="border: 0; width: 100%; height: 360px;"src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRhMk-E5IZj1PlWMUvvYKqxUTTSdAskjGNkqHJHaB3tA2_8tiUfywF9Alsr5dFbYq_pVmyK1f8fxkM7/pubhtml?widget=true&amp;headers=false"></iframe>
+
+Liên tục tạo độ ẩm để hạt giống có thể nảy mầm, và cây có đủ nước để phát triển cho đến khi thu hoạch.
+
+Cũng cần phải chăm chút công đoạn làm tơi xốp đất, tạo luống để trồng dễ dàng, và dễ bơm nước vào khu vườn tạo ẩm.
+
+Trung bình, hàng năm sẽ cung cấp đủ số lượng rau cho gia đình 4 người sử dụng.
